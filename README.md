@@ -15,3 +15,9 @@
   <a href="https://anilist.co/user/xVotex/" target="_blank"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white" alt="AniList Link"></a>
   <a href="https://ko-fi.com/xvotexx" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Link"></a>
 </div>
+
+<b></b><br>
+<b></b><br>
+<b></b><br>
+<b></b><br>
+<sub>**← More of my stuff**</sub>
