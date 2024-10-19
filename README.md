@@ -11,7 +11,7 @@
 
 <div align="center">
   <b><img src="https://img.shields.io/badge/Code 0%25 optimized ✔️-191919?style=for-the-badge"/></b><br>
-  <a href="https://steamcommunity.com/id/48591/" target="blank"><img src="https://img.shields.io/badge/Steam-081944?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Link"></a>
-  <a href="https://anilist.co/user/xVotex/" target="blank"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white" alt="AniList Link"></a>
-  <a href="https://ko-fi.com/xvotexx" target="blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Link"></a>
+  <a href="https://steamcommunity.com/id/48591/" target="_blank"><img src="https://img.shields.io/badge/Steam-081944?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Link"></a>
+  <a href="https://anilist.co/user/xVotex/" target="_blank"><img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white" alt="AniList Link"></a>
+  <a href="https://ko-fi.com/xvotexx" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Link"></a>
 </div>
