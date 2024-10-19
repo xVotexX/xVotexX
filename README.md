@@ -21,5 +21,4 @@
 <b></b><br>
 <b></b><br>
 <b></b><br>
-<b></b><br>
-*← More of my stuff*
+<sub>*← More of my stuff*</sub>
